@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Braulio</h1>
-<h3 align="center">A software developer with lot of curiosity and a never stop learning spirit with</h3>
+<h3 align="center">A software developer with a lot of curiosity and a spirit of constant learning</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

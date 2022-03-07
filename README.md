@@ -1,4 +1,4 @@
-# Hi 👋, I'm Braulio Jaureguy
+## Hi 👋, I'm Braulio Jaureguy
 A software developer with a lot of curiosity and a spirit of constant learning 
 
 I work as a full stack software developer at K2B ERP, using GeneXus technology
@@ -18,12 +18,12 @@ Actualmente estoy aprendiendo desarrollo web con otras tecnologias como JavaScri
 Tambien tengo mucha curiosidad sobre el desarrollo movil y la tecnologia blockchain
 
 
-## Know more about me here / conoce mas sobre mi aqui:
+### Know more about me here / conoce mas sobre mi aqui:
 <p align="left">
 <a href="https://www.linkedin.com/in/braulio-jaureguy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/braulio-jaureguy/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools / Lenguajes y herramientas:</h3>
+### Languages and Tools / Lenguajes y herramientas:
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>

@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Braulio Jaureguy</h1>
-<h3 align="center">A software developer with a lot of curiosity and a spirit of constant learning</h3>
-<h3 align="center">I work as a full stack software developer at K2B ERP, using GeneXus technology</h3>
-<h3 align="center">I’m currently learning Web development with other technologies such as JavaScript, HTML and CSS, and I am very interested in learning react</h3>
-<h3 align="center">I also find very interesting mobile development and blockchain technology</h3>
+#Hi 👋, I'm Braulio Jaureguy
+A software developer with a lot of curiosity and a spirit of constant learning
+I work as a full stack software developer at K2B ERP, using GeneXus technology
+I’m currently learning Web development with other technologies such as JavaScript, HTML and CSS, and I am very interested in learning react
+I also find very interesting mobile development and blockchain technology
  
 
-<h1 align="center">Hola 👋, soy Braulio Jaureguy</h1>
-<h3 align="center">Un desarrollador de software con mucha curiosidad y un espiritu de aprendizaje constante</h3>
-<h3 align="center">Trabajo como desarrollador de software full stack en K2B ERP utilizando la tecnologia GeneXus</h3>
-<h3 align="center">Actualmente estoy aprendiendo desarrollo web con otras tecnologias como JavaScript, HTML and CSS y me interesa mucho aprender react</h3>
-<h3 align="center">Tambien tengo mucha curiosidad sobre el desarrollo movil y la tecnologia blockchain</h3>
+#Hola 👋, soy Braulio Jaureguy
+Un desarrollador de software con mucha curiosidad y un espiritu de aprendizaje constante
+Trabajo como desarrollador de software full stack en K2B ERP utilizando la tecnologia GeneXus
+Actualmente estoy aprendiendo desarrollo web con otras tecnologias como JavaScript, HTML and CSS y me interesa mucho aprender react
+Tambien tengo mucha curiosidad sobre el desarrollo movil y la tecnologia blockchain
 
 
-<h3 align="left">Connect with me:</h3>
+#Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/braulio-jaureguy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/braulio-jaureguy/" height="30" width="40" /></a>
 </p>

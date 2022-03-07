@@ -7,8 +7,7 @@ I’m currently learning Web development with other technologies such as JavaScr
 
 I also find very interesting mobile development and blockchain technology
  
-
-# Hola 👋, soy Braulio Jaureguy
+## Hola 👋, soy Braulio Jaureguy
 Un desarrollador de software con mucha curiosidad y un espiritu de aprendizaje constante
 
 Trabajo como desarrollador de software full stack en K2B ERP utilizando la tecnologia GeneXus

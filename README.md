@@ -1,7 +1,9 @@
 ## Hi 👋, I'm Braulio Jaureguy
 A software developer with a lot of curiosity and a spirit of constant learning 
 
-I work as a full stack software developer at K2B ERP, using GeneXus technology
+I currently work as a Java Developer at THESE (The Software Evolution), using JAVA 17, Spring boot, Junit, Git Hub - Git Flow, Scrum, etc...
+
+I worked for 3 years as a full stack software developer at K2B ERP using GeneXus technology
 
 I’m currently learning Web development with other technologies such as JavaScript, HTML and CSS, and I am very interested in learning react
 
@@ -10,7 +12,9 @@ I also find very interesting mobile development and blockchain technology
 ## Hola 👋, soy Braulio Jaureguy
 Un desarrollador de software con mucha curiosidad y un espiritu de aprendizaje constante
 
-Trabajo como desarrollador de software full stack en K2B ERP utilizando la tecnologia GeneXus
+Actualmente trabajo como Java Developer en THESE (The Software Evolution), utilizando JAVA 17, Spring boot, Junit, Git Hub - Git Flow, Scrum, etc...
+
+Trabaje durante 3 años como desarrollador de software full stack en K2B ERP utilizando la tecnologia GeneXus
 
 Actualmente estoy aprendiendo desarrollo web con otras tecnologias como JavaScript, HTML and CSS y me interesa mucho aprender react
 

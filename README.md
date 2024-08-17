@@ -1,29 +1,42 @@
-## Hi 👋, I'm Braulio Jaureguy
-A software developer with a lot of curiosity and a spirit of constant learning 
+## Hello 👋, I'm Braulio Jaureguy
+A software developer with a lot of curiosity and a spirit of constant learning
 
-I currently work as a Java Developer at THESE (The Software Evolution), using JAVA 17, Spring boot, Junit, Git Hub - Git Flow, Scrum, etc...
+I graduated of the Computer Technology degree, where I was able to learn different skills such as OOP, data structures and algorithms, databases, software engineering and also soft skills as well as English. As far as technologies are concerned, my main strength is on the backend where I have experience in the following technologies/tools/methodologies:
 
-I worked for 3 years as a full stack software developer at K2B ERP using GeneXus technology
+-Java, Spring, JPA, Hibernate, gradle and maven
+-REST APIs, Postman, Swagger, SOAP UI
+-Testing (JUnit, Mockito, TDD)
+-Git and GitHub / GitFlow.
+-MySQL, PostgreSQL
+-Docker
+-Scrum.
 
-I’m currently learning Web development with other technologies such as JavaScript, HTML and CSS, and I am very interested in learning react
+I am currently looking to expand my knowledge to become a full-stack developer, and for this, I am learning frontend with JavaScript, HTML, CSS and I am very interested in learning react
 
-I also find very interesting mobile development and blockchain technology
+Today, I am looking for a job opportunity where I can apply everything I have learned and of course continue learning and growing as a professional.
+
+In the mid-time, throughout my university career, I was working as a Genexus developer for 5 years in K2B ERP.
  
 ## Hola 👋, soy Braulio Jaureguy
 Un desarrollador de software con mucha curiosidad y un espiritu de aprendizaje constante
 
-Actualmente trabajo como Java Developer en THESE (The Software Evolution), utilizando JAVA 17, Spring boot, Junit, Git Hub - Git Flow, Scrum, etc...
+Estoy graduado de la carrera universitaria Tecnologo informatico, donde en la misma pude aprender distintas habilidades como POO, estructuras de datos y algoritmos, bases de datos, ingenieria de software y tambien habilidades blandas asi como ingles. En lo que a tecnologias se refiere mi principal fortaleza es en el lado del backend donde tengo experiencia en las siguientes tecnologias/herramientas/metodologias:
 
-Trabaje durante 3 años como desarrollador de software full stack en K2B ERP utilizando la tecnologia GeneXus
+-Java, Spring, JPA, Hibernate, gradle y maven
+-APIs REST, Postman, Swagger, SOAP UI
+-Testing (JUnit, Mockito, TDD)
+-Git y GitHub / GitFlow.
+-MySQL , PostgreSQL
+-Docker
+-Scrum.
 
-Actualmente estoy aprendiendo desarrollo web con otras tecnologias como JavaScript, HTML and CSS y me interesa mucho aprender react
+Actualmente estoy buscando ampliar mi conocimiento para volverme un desarrollador full-stack, y para esto, estoy aprendiendo frontend con JavaScript, HTML, CSS y me interesa mucho aprender react
 
-Tambien tengo mucha curiosidad sobre el desarrollo movil y la tecnologia blockchain
+Hoy en dia, me encuentro en busqueda de una oportunidad laboral donde pueda aplicar todo lo aprendido y por supuesto seguir apendiendo y creciendo como profesional.
+
+A su vez, durante todo el trayecto de la carrera universitaria, estuve trabajando como desarrollador Genexus durante 5 años en K2B ERP.
 
 ## Languages and Tools / Lenguajes y herramientas:
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -31,7 +44,6 @@ Tambien tengo mucha curiosidad sobre el desarrollo movil y la tecnologia blockch
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 

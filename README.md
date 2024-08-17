@@ -3,13 +3,7 @@ A software developer with a lot of curiosity and a spirit of constant learning
 
 I graduated of the Computer Technology degree, where I was able to learn different skills such as OOP, data structures and algorithms, databases, software engineering and also soft skills as well as English. As far as technologies are concerned, my main strength is on the backend where I have experience in the following technologies/tools/methodologies:
 
--Java, Spring, JPA, Hibernate, gradle and maven
--REST APIs, Postman, Swagger, SOAP UI
--Testing (JUnit, Mockito, TDD)
--Git and GitHub / GitFlow.
--MySQL, PostgreSQL
--Docker
--Scrum.
+-Java, Spring, JPA, Hibernate, gradle and maven / REST APIs, Postman, Swagger, SOAP UI / Testing (JUnit, Mockito, TDD) / Git and GitHub / GitFlow / MySQL, PostgreSQL / Docker / Scrum
 
 I am currently looking to expand my knowledge to become a full-stack developer, and for this, I am learning frontend with JavaScript, HTML, CSS and I am very interested in learning react
 
@@ -22,13 +16,7 @@ Un desarrollador de software con mucha curiosidad y un espiritu de aprendizaje c
 
 Estoy graduado de la carrera universitaria Tecnologo informatico, donde en la misma pude aprender distintas habilidades como POO, estructuras de datos y algoritmos, bases de datos, ingenieria de software y tambien habilidades blandas asi como ingles. En lo que a tecnologias se refiere mi principal fortaleza es en el lado del backend donde tengo experiencia en las siguientes tecnologias/herramientas/metodologias:
 
--Java, Spring, JPA, Hibernate, gradle y maven
--APIs REST, Postman, Swagger, SOAP UI
--Testing (JUnit, Mockito, TDD)
--Git y GitHub / GitFlow.
--MySQL , PostgreSQL
--Docker
--Scrum.
+-Java, Spring, JPA, Hibernate, gradle and maven / REST APIs, Postman, Swagger, SOAP UI / Testing (JUnit, Mockito, TDD) / Git and GitHub / GitFlow / MySQL, PostgreSQL / Docker / Scrum
 
 Actualmente estoy buscando ampliar mi conocimiento para volverme un desarrollador full-stack, y para esto, estoy aprendiendo frontend con JavaScript, HTML, CSS y me interesa mucho aprender react
 

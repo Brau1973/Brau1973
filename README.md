@@ -7,7 +7,7 @@ I graduated of the Computer Technology degree, where I was able to learn differe
 
 I am currently looking to expand my knowledge to become a full-stack developer, and for this, I am learning frontend with JavaScript, HTML, CSS and I am very interested in learning react
 
-Today, I am looking for a job opportunity where I can apply everything I have learned and of course continue learning and growing as a professional.
+Nowadays, I am looking for a job opportunity where I can apply everything I have learned and of course continue learning and growing as a professional.
 
 In the mid-time, throughout my university career, I was working as a Genexus developer for 5 years in K2B ERP.
  

@@ -1,7 +1,7 @@
 ## Hello 👋, I'm Braulio Jaureguy
 A software developer with a lot of curiosity and a spirit of constant learning
 
-I graduated of the Computer Technology degree, where I was able to learn different skills such as OOP, data structures and algorithms, databases, software engineering and also soft skills as well as English. As far as technologies are concerned, my main strength is on the backend where I have experience in the following technologies/tools/methodologies:
+I am graduated of the university degree "Tecnologo informatico", where I was able to learn different skills such as OOP, data structures and algorithms, databases, software engineering and also soft skills as well as English. As far as technologies are concerned, my main strength is on the backend where I have experience in the following technologies/tools/methodologies:
 
 -Java, Spring, JPA, Hibernate, gradle and maven / REST APIs, Postman, Swagger, SOAP UI / Testing (JUnit, Mockito, TDD) / Git and GitHub / GitFlow / MySQL, PostgreSQL / Docker / Scrum
 

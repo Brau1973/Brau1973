@@ -1,28 +1,15 @@
 ## Hello 👋, I'm Braulio Jaureguy
-A software developer with a lot of curiosity and a spirit of constant learning
+🚀 Software Engineer at Mercado Libre 🤝
 
-I am graduated of the university degree "Tecnologo informatico", where I was able to learn different skills such as OOP, data structures and algorithms, databases, software engineering and also soft skills as well as English. As far as technologies are concerned, my main strength is on the backend where I have experience in the following technologies/tools/methodologies:
+Software Engineer with a track record of transforming business requirements into high-impact technical solutions. My career spans from specialized development in large-scale ERP systems to designing complex backend architectures in high-demand and high-concurrency ecosystems. 🌐
 
--Java, Spring, JPA, Hibernate, gradle and maven / REST APIs, Postman, Swagger, SOAP UI / Testing (JUnit, Mockito, TDD) / Git and GitHub / GitFlow / MySQL, PostgreSQL / Docker / Scrum
-
-I am currently looking to expand my knowledge to become a full-stack developer, and for this, I am learning frontend with JavaScript, HTML, CSS and I am very interested in learning react
-
-Nowadays, I am looking for a job opportunity where I can apply everything I have learned and of course continue learning and growing as a professional.
-
-In the mid-time, throughout my university career, I was working as a Genexus developer for 5 years in K2B ERP.
+📍 My current role allows me to tackle high-stakes technical challenges where efficiency and quality are fundamental pillars. My differentiator lies at the intersection of traditional engineering and innovation: I implement Spec Driven Development (SDD) methodologies, leveraging Claude Code and other AI tools to elevate the standard of my deliverables and accelerate development cycles. 🤖⚡
  
 ## Hola 👋, soy Braulio Jaureguy
-Un desarrollador de software con mucha curiosidad y un espiritu de aprendizaje constante
+🚀 Ingeniero de Software en Mercado Libre 🤝
+Ingeniero de Software con experiencia en la transformación de requisitos de negocio en soluciones técnicas de alto impacto. Mi trayectoria profesional abarca desde el desarrollo especializado en sistemas ERP a gran escala hasta el diseño de arquitecturas backend complejas en ecosistemas de alta demanda y alta concurrencia. 🌐
 
-Estoy graduado de la carrera universitaria Tecnologo informatico, donde en la misma pude aprender distintas habilidades como POO, estructuras de datos y algoritmos, bases de datos, ingenieria de software y tambien habilidades blandas asi como ingles. En lo que a tecnologias se refiere mi principal fortaleza es en el lado del backend donde tengo experiencia en las siguientes tecnologias/herramientas/metodologias:
-
--Java, Spring, JPA, Hibernate, gradle and maven / REST APIs, Postman, Swagger, SOAP UI / Testing (JUnit, Mockito, TDD) / Git and GitHub / GitFlow / MySQL, PostgreSQL / Docker / Scrum
-
-Actualmente estoy buscando ampliar mi conocimiento para volverme un desarrollador full-stack, y para esto, estoy aprendiendo frontend con JavaScript, HTML, CSS y me interesa mucho aprender react
-
-Hoy en dia, me encuentro en busqueda de una oportunidad laboral donde pueda aplicar todo lo aprendido y por supuesto seguir apendiendo y creciendo como profesional.
-
-A su vez, durante todo el trayecto de la carrera universitaria, estuve trabajando como desarrollador Genexus durante 5 años en K2B ERP.
+📍 Mi puesto actual me permite abordar desafíos técnicos de alto riesgo donde la eficiencia y la calidad son pilares fundamentales. Mi diferenciador reside en la intersección de la ingeniería tradicional y la innovación: implemento metodologías de Desarrollo Dirigido por Specs (SDD), utilizando Claude Code y otras herramientas de IA para elevar el estándar de mis entregables y acelerar los ciclos de desarrollo. 🤖⚡
 
 ## Languages and Tools / Lenguajes y herramientas:
 

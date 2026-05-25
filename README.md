@@ -43,6 +43,12 @@ Ingeniero de Software con experiencia en la transformación de requisitos de neg
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
+  <a href="https://claude.ai/code" target="_blank" rel="noreferrer">
+    <img src="https://claude.ai/favicon.ico" alt="claude code" width="40" height="40"/>
+  </a>
+  <a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/cursor/4A90D9" alt="cursor" width="40" height="40"/>
+  </a>
 
 
 ## Know more about me here / conoce mas sobre mi aqui:
